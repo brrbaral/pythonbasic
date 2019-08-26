@@ -1,0 +1,2 @@
+this the first program in file handling in python
+file handling is often an important mechanism in oop

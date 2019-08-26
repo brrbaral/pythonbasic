@@ -1,0 +1,9 @@
+def div(a,b):
+    if b>a:
+        a,b=b,a
+    print(a/b)
+div(2,4)
+
+#WHAT IF WE WANT TO DO THIS WITHOUT USING IF CONDITION
+#SO HERE COMES THE ROLES OF DECORATOR
+#dECORTATOR IS EXPLAINED IN NEXT PROGRAM

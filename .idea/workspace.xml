@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/PythonBasic/MultipleInput.py" line="3" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71874f62-d20d-439a-be90-8db8e8c411bf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonbasic$NestedClass.coverage" NAME="NestedClass Coverage Results" MODIFIED="1555728381853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Pattern1.coverage" NAME="Pattern1 Coverage Results" MODIFIED="1558434949673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PatternPrograrm" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Filter.coverage" NAME="Filter Coverage Results" MODIFIED="1555345981110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$AddTwoPoints.coverage" NAME="AddTwoPoints Coverage Results" MODIFIED="1555742302164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorOverloading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ValidKeyword.coverage" NAME="ValidKeyword Coverage Results" MODIFIED="1556710128858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$TimeFucntion.coverage" NAME="TimeFucntion Coverage Results" MODIFIED="1556359523129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$URLlibURLError.coverage" NAME="URLlibURLError Coverage Results" MODIFIED="1556592896426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$With.coverage" NAME="With Coverage Results" MODIFIED="1555588878423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Reduce.coverage" NAME="Reduce Coverage Results" MODIFIED="1555348078389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$IterItems__.coverage" NAME="IterItems() Coverage Results" MODIFIED="1558419543985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$FloatingPOintError.coverage" NAME="FloatingPOintError Coverage Results" MODIFIED="1549954175830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$NOT_Bitwise_Logical.coverage" NAME="NOT-Bitwise&amp;Logical Coverage Results" MODIFIED="1557381615149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$FileRead2.coverage" NAME="FileRead2 Coverage Results" MODIFIED="1555585809285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$BitwiseRightShift.coverage" NAME="BitwiseRightShift Coverage Results" MODIFIED="1556682065311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Struct.coverage" NAME="Struct Coverage Results" MODIFIED="1556382368905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$OperatorOverloading1.coverage" NAME="OperatorOverloading1 Coverage Results" MODIFIED="1555738654941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Eval.coverage" NAME="Eval Coverage Results" MODIFIED="1556605321923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$SeparatorInOutput.coverage" NAME="SeparatorInOutput Coverage Results" MODIFIED="1556768371270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$nextFucntion.coverage" NAME="nextFucntion Coverage Results" MODIFIED="1549957411285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$float.coverage" NAME="float Coverage Results" MODIFIED="1549353211150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TypeConversion" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MehodOverriding.coverage" NAME="MehodOverriding Coverage Results" MODIFIED="1554999940877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$fileHandlingException.coverage" NAME="fileHandlingException Coverage Results" MODIFIED="1555589804438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$reverseAstring.coverage" NAME="reverseAstring Coverage Results" MODIFIED="1554998670239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Pattern2.coverage" NAME="Pattern2 Coverage Results" MODIFIED="1558434682027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PatternPrograrm" />
+    <SUITE FILE_PATH="coverage/pythonbasic$OperatorOverloading_Point.coverage" NAME="OperatorOverloading-Point Coverage Results" MODIFIED="1555738876653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$DateTime.coverage" NAME="DateTime Coverage Results" MODIFIED="1556360599605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ANY.coverage" NAME="ANY Coverage Results" MODIFIED="1557388727219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Continue.coverage" NAME="Continue Coverage Results" MODIFIED="1555171728312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MatrixSum.coverage" NAME="MatrixSum Coverage Results" MODIFIED="1555295008318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultithreadingDaemonThread.coverage" NAME="MultithreadingDaemonThread Coverage Results" MODIFIED="1548756430295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$complexNum.coverage" NAME="complexNum Coverage Results" MODIFIED="1549354777823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TypeConversion" />
+    <SUITE FILE_PATH="coverage/pythonbasic$CalendarFunc.coverage" NAME="CalendarFunc Coverage Results" MODIFIED="1556181017259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Separator.coverage" NAME="Separator Coverage Results" MODIFIED="1555082728251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultithreadingNondaemonThread.coverage" NAME="MultithreadingNondaemonThread Coverage Results" MODIFIED="1548756215168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$URLLibROBOTParser.coverage" NAME="URLLibROBOTParser Coverage Results" MODIFIED="1556595205657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Fraction1.coverage" NAME="Fraction1 Coverage Results" MODIFIED="1556610213472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$printMatrix.coverage" NAME="printMatrix Coverage Results" MODIFIED="1555294594721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Example1__1_.coverage" NAME="Example1 (1) Coverage Results" MODIFIED="1558435501293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PatternPrograrm" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Zip.coverage" NAME="Zip Coverage Results" MODIFIED="1562901761019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1548494649841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ByteObjectStreamObject.coverage" NAME="ByteObjectStreamObject Coverage Results" MODIFIED="1556813863004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$CalenderFuctions.coverage" NAME="CalenderFuctions Coverage Results" MODIFIED="1556174033090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$SuperKeywordwithout.coverage" NAME="SuperKeywordwithout Coverage Results" MODIFIED="1555726653700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$isAnd__.coverage" NAME="isAnd== Coverage Results" MODIFIED="1557461480820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Threading1.coverage" NAME="Threading1 Coverage Results" MODIFIED="1548516031070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ReturnStatement.coverage" NAME="ReturnStatement Coverage Results" MODIFIED="1555172768524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ReversingString.coverage" NAME="ReversingString Coverage Results" MODIFIED="1555209582955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$PyAutoGui_MouseClick.coverage" NAME="PyAutoGui-MouseClick Coverage Results" MODIFIED="1558601998919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Assertion.coverage" NAME="Assertion Coverage Results" MODIFIED="1549516691461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$CopyFile.coverage" NAME="CopyFile Coverage Results" MODIFIED="1555587471855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$random__.coverage" NAME="random() Coverage Results" MODIFIED="1555843046646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Pass.coverage" NAME="Pass Coverage Results" MODIFIED="1557475332536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$fileHandling1.coverage" NAME="fileHandling1 Coverage Results" MODIFIED="1555585352075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$PyAutoGuiTypeWrite2.coverage" NAME="PyAutoGuiTypeWrite2 Coverage Results" MODIFIED="1556623559627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Variable.coverage" NAME="Variable Coverage Results" MODIFIED="1562901878188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$TupleSetList.coverage" NAME="TupleSetList Coverage Results" MODIFIED="1549354303639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TypeConversion" />
+    <SUITE FILE_PATH="coverage/pythonbasic$URLlibRequest2.coverage" NAME="URLlibRequest2 Coverage Results" MODIFIED="1556589623350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$baseConvesion.coverage" NAME="baseConvesion Coverage Results" MODIFIED="1549352782285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TypeConversion" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Readlines.coverage" NAME="Readlines Coverage Results" MODIFIED="1555588418256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$listITeerabale.coverage" NAME="listITeerabale Coverage Results" MODIFIED="1549956123388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$str___repr__.coverage" NAME="str()&amp;repr() Coverage Results" MODIFIED="1555127835268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonbasic$None.coverage" NAME="None Coverage Results" MODIFIED="1556709085909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$stringInReverse.coverage" NAME="stringInReverse Coverage Results" MODIFIED="1554999020522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$DataHiding.coverage" NAME="DataHiding Coverage Results" MODIFIED="1555747654991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$QRCode.coverage" NAME="QRCode Coverage Results" MODIFIED="1556625399538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MulitThreadingSync1.coverage" NAME="MulitThreadingSync1 Coverage Results" MODIFIED="1548830424895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$WriteFile.coverage" NAME="WriteFile Coverage Results" MODIFIED="1555586495608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$NestedClass2py.coverage" NAME="NestedClass2py Coverage Results" MODIFIED="1555729600244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MAP.coverage" NAME="MAP Coverage Results" MODIFIED="1548497190008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$FormattingOutput.coverage" NAME="FormattingOutput Coverage Results" MODIFIED="1556770707449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Enumerate.coverage" NAME="Enumerate Coverage Results" MODIFIED="1557477530810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Enumerate2.coverage" NAME="Enumerate2 Coverage Results" MODIFIED="1557503905500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Example1.coverage" NAME="Example1 Coverage Results" MODIFIED="1558433501117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyramid" />
+    <SUITE FILE_PATH="coverage/pythonbasic$break.coverage" NAME="break Coverage Results" MODIFIED="1555171441391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ComplexNumAngle.coverage" NAME="ComplexNumAngle Coverage Results" MODIFIED="1556358596309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MethodOverriding.coverage" NAME="MethodOverriding Coverage Results" MODIFIED="1555640729196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$GeneratorExit.coverage" NAME="GeneratorExit Coverage Results" MODIFIED="1554998618565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Struct3Error.coverage" NAME="Struct3Error Coverage Results" MODIFIED="1556465276427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Math2_Log_Power.coverage" NAME="Math2-Log&amp;Power Coverage Results" MODIFIED="1556123214695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Sorted__.coverage" NAME="Sorted() Coverage Results" MODIFIED="1558426898744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$PyAutoGuiScroll.coverage" NAME="PyAutoGuiScroll Coverage Results" MODIFIED="1556623388203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1555750515856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$URLlibParse.coverage" NAME="URLlibParse Coverage Results" MODIFIED="1556590104350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$LessThanOperator.coverage" NAME="LessThanOperator Coverage Results" MODIFIED="1555746550431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorOverloading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$strict_consistency.coverage" NAME="strict consistency Coverage Results" MODIFIED="1560390523372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$struct2.coverage" NAME="struct2 Coverage Results" MODIFIED="1556382351867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ComplexNumber.coverage" NAME="ComplexNumber Coverage Results" MODIFIED="1556209026544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$maxIntError.coverage" NAME="maxIntError Coverage Results" MODIFIED="1554998604708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ArrayIndexError.coverage" NAME="ArrayIndexError Coverage Results" MODIFIED="1549524690373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Math.coverage" NAME="Math Coverage Results" MODIFIED="1556035760598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ClassandObject.coverage" NAME="ClassandObject Coverage Results" MODIFIED="1555603691740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultipleInputList.coverage" NAME="MultipleInputList Coverage Results" MODIFIED="1556764764761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$UserDefinedException1.coverage" NAME="UserDefinedException1 Coverage Results" MODIFIED="1549550785571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$InPlaceInMutable.coverage" NAME="InPlaceInMutable Coverage Results" MODIFIED="1557399611474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Map.coverage" NAME="Map Coverage Results" MODIFIED="1555344203506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Calendar_Year.coverage" NAME="Calendar-Year Coverage Results" MODIFIED="1556180808734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$RaisingException.coverage" NAME="RaisingException Coverage Results" MODIFIED="1549528656210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$CalendarFunc2.coverage" NAME="CalendarFunc2 Coverage Results" MODIFIED="1556188984831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ForLoop2.coverage" NAME="ForLoop2 Coverage Results" MODIFIED="1555083848236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MathSet4Gamma_Constants.coverage" NAME="MathSet4Gamma&amp;Constants Coverage Results" MODIFIED="1556123799302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Random.coverage" NAME="Random Coverage Results" MODIFIED="1556362472038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$__name______main__.coverage" NAME="__name__==__main__ Coverage Results" MODIFIED="1556815994911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultilevelInheritance.coverage" NAME="MultilevelInheritance Coverage Results" MODIFIED="1555642607334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Calender1.coverage" NAME="Calender1 Coverage Results" MODIFIED="1556171606214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$PyAutoGui.coverage" NAME="PyAutoGui Coverage Results" MODIFIED="1556620617370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$GlobalLocalVariable.coverage" NAME="GlobalLocalVariable Coverage Results" MODIFIED="1556799144548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$GlobalLocalVariable2.coverage" NAME="GlobalLocalVariable2 Coverage Results" MODIFIED="1556799343135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$EOFerror.coverage" NAME="EOFerror Coverage Results" MODIFIED="1549953198697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1555083660991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$zipInDictionary.coverage" NAME="zipInDictionary Coverage Results" MODIFIED="1555582145318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$InplaceInImmutable.coverage" NAME="InplaceInImmutable Coverage Results" MODIFIED="1557397572533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$InheritanceBasic.coverage" NAME="InheritanceBasic Coverage Results" MODIFIED="1555640469687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$TernaryOperator1.coverage" NAME="TernaryOperator1 Coverage Results" MODIFIED="1557384321956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$VariableCapacityNo.coverage" NAME="VariableCapacityNo Coverage Results" MODIFIED="1556798243115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$OperatorOverloading_Point__1_.coverage" NAME="OperatorOverloading-Point (1) Coverage Results" MODIFIED="1555739108272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorOverloading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$SwitchCAse.coverage" NAME="SwitchCAse Coverage Results" MODIFIED="1558452920969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ThreadBaseClass.coverage" NAME="ThreadBaseClass Coverage Results" MODIFIED="1548747554169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$UrlLibRequest.coverage" NAME="UrlLibRequest Coverage Results" MODIFIED="1556588773946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$NestedClass3.coverage" NAME="NestedClass3 Coverage Results" MODIFIED="1555729696868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$CalendarTextCalandar.coverage" NAME="CalendarTextCalandar Coverage Results" MODIFIED="1556180418259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$forlooop3.coverage" NAME="forlooop3 Coverage Results" MODIFIED="1555169781879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$pass.coverage" NAME="pass Coverage Results" MODIFIED="1555169942632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$FormattingPoints_x_y_.coverage" NAME="FormattingPoints(x,y) Coverage Results" MODIFIED="1555741979171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorOverloading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ANDgate.coverage" NAME="ANDgate Coverage Results" MODIFIED="1557458345811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$whileLoop.coverage" NAME="whileLoop Coverage Results" MODIFIED="1555170890635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$PyAutoGuiType.coverage" NAME="PyAutoGuiType Coverage Results" MODIFIED="1556623425878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$InNotIn.coverage" NAME="InNotIn Coverage Results" MODIFIED="1557466678234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Operators" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Break.coverage" NAME="Break Coverage Results" MODIFIED="1557474582095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ThreadWithName.coverage" NAME="ThreadWithName Coverage Results" MODIFIED="1548747912703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Example2.coverage" NAME="Example2 Coverage Results" MODIFIED="1558435527302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PatternPrograrm" />
+    <SUITE FILE_PATH="coverage/pythonbasic$AccessingAttributes.coverage" NAME="AccessingAttributes Coverage Results" MODIFIED="1555639482663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Items__.coverage" NAME="Items() Coverage Results" MODIFIED="1558419297091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow" />
+    <SUITE FILE_PATH="coverage/pythonbasic$TypecConversionImplicit1.coverage" NAME="TypecConversionImplicit1 Coverage Results" MODIFIED="1549188114945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultipleInput.coverage" NAME="MultipleInput Coverage Results" MODIFIED="1556712029767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBasic" />
+    <SUITE FILE_PATH="coverage/pythonbasic$dir__.coverage" NAME="dir() Coverage Results" MODIFIED="1555839638077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/pythonbasic$BuiltInExcep.coverage" NAME="BuiltInExcep Coverage Results" MODIFIED="1549551913735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExceptionHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Array.coverage" NAME="Array Coverage Results" MODIFIED="1555341874163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/revision" />
+    <SUITE FILE_PATH="coverage/pythonbasic$append.coverage" NAME="append Coverage Results" MODIFIED="1555587393625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FileHandling" />
+    <SUITE FILE_PATH="coverage/pythonbasic$SuperKeyword.coverage" NAME="SuperKeyword Coverage Results" MODIFIED="1555727210873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/islice &amp; starmap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/takewhile &amp; tee .py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PythonBasic/FormattingOutput.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/VariableCapacityNo.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/GlobalLocalVariable.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/GlobalLocalVariable2.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/ByteObjectStreamObject.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/__name__==__main__.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/__name__==__main__2.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/name==main2.py" />
+        <option value="$PROJECT_DIR$/PythonBasic/NonLocalVariable.py" />
+        <option value="$PROJECT_DIR$/Operators/NOT-Bitwise&amp;Logical.py" />
+        <option value="$PROJECT_DIR$/Operators/TernaryOperator1.py" />
+        <option value="$PROJECT_DIR$/Operators/ANY.py" />
+        <option value="$PROJECT_DIR$/Operators/InplaceInImmutable.py" />
+        <option value="$PROJECT_DIR$/Operators/InPlaceInMutable.py" />
+        <option value="$PROJECT_DIR$/Operators/ANDgate.py" />
+        <option value="$PROJECT_DIR$/Operators/isAnd==.py" />
+        <option value="$PROJECT_DIR$/Operators/InNotIn.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Break.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Pass.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Enumerate.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Enumerate2.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Zip.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Items().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/IterItems().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Sorted().py" />
+        <option value="$PROJECT_DIR$/Pyramid/Example1.py" />
+        <option value="$PROJECT_DIR$/PatternPrograrm/Pattern1.py" />
+        <option value="$PROJECT_DIR$/PatternPrograrm/Example2.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/SwitchCAse.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/strict consistency.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Variable.py" />
+        <option value="$PROJECT_DIR$/OOPinPython/@Property.py" />
+        <option value="$PROJECT_DIR$/OOPinPython/@property2(without).py" />
+        <option value="$PROJECT_DIR$/OOPinPython/@property.py" />
+        <option value="$PROJECT_DIR$/OOPinPython/@settr.py" />
+        <option value="$PROJECT_DIR$/OOPinPython/Reflection-Callable.py" />
+        <option value="$PROJECT_DIR$/MultiThreading/WithoutThreading.py" />
+        <option value="$PROJECT_DIR$/MultiThreading/MultiThreading(method1).py" />
+        <option value="$PROJECT_DIR$/MultiThreading/ThreadBaseClassMultithreading.py" />
+        <option value="$PROJECT_DIR$/Coruoutine/MakeCoroutine.py" />
+        <option value="$PROJECT_DIR$/Coruoutine/ExecuteCoroutine.py" />
+        <option value="$PROJECT_DIR$/Coruoutine/3. MakeMultipleCoroutine.py" />
+        <option value="$PROJECT_DIR$/Coruoutine/4. ExecuteMultipleCoroutine.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/iter().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/__next__().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/iter()AndNext().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/Accumulate()&amp;Chain().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/chain.From_iterables &amp; Compress().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/Dropwhile() &amp; FilterFalse().py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/islice &amp; starmap.py" />
+        <option value="$PROJECT_DIR$/ControlFlow/Iterator/takewhile &amp; tee .py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlFlow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonbasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OOPinPython" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BISHOW\Desktop\Python-Django\pythonbasic\OOPinPython" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BISHOW\Desktop\Python-Django\pythonbasic\PatternPrograrm" />
+      <recent name="C:\Users\BISHOW\Desktop\Python-Django\pythonbasic\OperatorOverloading" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.takewhile &amp; tee ">
+    <configuration name="Accumulate()&amp;Chain()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonbasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlFlow/Iterator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlFlow/Iterator/Accumulate()&amp;Chain().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dropwhile() &amp; FilterFalse()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonbasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlFlow/Iterator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlFlow/Iterator/Dropwhile() &amp; FilterFalse().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chain.From_iterables &amp; Compress()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonbasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlFlow/Iterator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlFlow/Iterator/chain.From_iterables &amp; Compress().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="islice &amp; starmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonbasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlFlow/Iterator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlFlow/Iterator/islice &amp; starmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="takewhile &amp; tee " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonbasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlFlow/Iterator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlFlow/Iterator/takewhile &amp; tee .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Accumulate()&amp;Chain()" />
+      <item itemvalue="Python.chain.From_iterables &amp; Compress()" />
+      <item itemvalue="Python.Dropwhile() &amp; FilterFalse()" />
+      <item itemvalue="Python.islice &amp; starmap" />
+      <item itemvalue="Python.takewhile &amp; tee " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.takewhile &amp; tee " />
+        <item itemvalue="Python.islice &amp; starmap" />
+        <item itemvalue="Python.Dropwhile() &amp; FilterFalse()" />
+        <item itemvalue="Python.chain.From_iterables &amp; Compress()" />
+        <item itemvalue="Python.Accumulate()&amp;Chain()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71874f62-d20d-439a-be90-8db8e8c411bf" name="Default" comment="" />
+      <created>1547399012006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547399012006</updated>
+      <workItem from="1563189678195" duration="3296000" />
+      <workItem from="1563248400423" duration="1070000" />
+      <workItem from="1563254413530" duration="3160000" />
+      <workItem from="1563767128661" duration="845000" />
+      <workItem from="1564109201330" duration="3581000" />
+      <workItem from="1564119329617" duration="7446000" />
+      <workItem from="1564157407099" duration="2114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21512000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30176565" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32605043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MultiThreading/MultiThreading(method1).py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonbasic$WithoutThreading.coverage" NAME="WithoutThreading Coverage Results" MODIFIED="1563255564869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultiThreading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ThreadBaseClassMultithreading.coverage" NAME="ThreadBaseClassMultithreading Coverage Results" MODIFIED="1563767280972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultiThreading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MultiThreading_method1_.coverage" NAME="MultiThreading(method1) Coverage Results" MODIFIED="1563255802003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultiThreading" />
+    <SUITE FILE_PATH="coverage/pythonbasic$MakeCoroutine.coverage" NAME="MakeCoroutine Coverage Results" MODIFIED="1564109522913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Coruoutine" />
+    <SUITE FILE_PATH="coverage/pythonbasic$iter__AndNext__.coverage" NAME="iter()AndNext() Coverage Results" MODIFIED="1564125498081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$takewhile___tee_.coverage" NAME="takewhile &amp; tee  Coverage Results" MODIFIED="1564159708459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$ExecuteCoroutine.coverage" NAME="ExecuteCoroutine Coverage Results" MODIFIED="1564109674550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Coruoutine" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Dropwhile_____FilterFalse__.coverage" NAME="Dropwhile() &amp; FilterFalse() Coverage Results" MODIFIED="1564130655503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$_Property.coverage" NAME="@Property Coverage Results" MODIFIED="1563190485653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$islice___starmap.coverage" NAME="islice &amp; starmap Coverage Results" MODIFIED="1564157996570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$_property2_without_.coverage" NAME="@property2(without) Coverage Results" MODIFIED="1563191215190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$4__ExecuteMultipleCoroutine.coverage" NAME="4. ExecuteMultipleCoroutine Coverage Results" MODIFIED="1564113247092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Coruoutine" />
+    <SUITE FILE_PATH="coverage/pythonbasic$_property.coverage" NAME="@property Coverage Results" MODIFIED="1563191333586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$chain_From_iterables___Compress__.coverage" NAME="chain.From_iterables &amp; Compress() Coverage Results" MODIFIED="1564130038381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Reflection_Callable.coverage" NAME="Reflection-Callable Coverage Results" MODIFIED="1563248759780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+    <SUITE FILE_PATH="coverage/pythonbasic$iter__.coverage" NAME="iter() Coverage Results" MODIFIED="1564124528179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$Accumulate___Chain__.coverage" NAME="Accumulate()&amp;Chain() Coverage Results" MODIFIED="1564126918747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ControlFlow/Iterator" />
+    <SUITE FILE_PATH="coverage/pythonbasic$_settr.coverage" NAME="@settr Coverage Results" MODIFIED="1563193007013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPinPython" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PythonBasic/NonLocalVariable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/TernaryOperator1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/ANY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/InplaceInImmutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/InPlaceInMutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/ANDgate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/isAnd==.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/InNotIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Pass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Enumerate2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/IterItems().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Items().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Sorted().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternPrograrm/Pattern2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternPrograrm/Pattern1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternPrograrm/Example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternPrograrm/Example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/SwitchCAse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/CalenderIterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/PyAutoGuiScroll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/PyAutoGuiType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/PyAutoGuiTypeWrite2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/PyAutoGui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/PyAutoGui-MouseClick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/strict consistency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/AccessingAttributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/@Property(without).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="58" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/@property2(without).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/@property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/@settr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/@settr(without).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPinPython/Reflection-Callable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThreading/WithoutThreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThreading/MultiThreading(method1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThreading/ThreadBaseClassMultithreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coruoutine/1. MakeCoroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coruoutine/2. ExecuteCoroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coruoutine/3. MakeMultipleCoroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coruoutine/4. ExecuteMultipleCoroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/iter().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/__next__().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/iter()AndNext().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/chain.From_iterables &amp; Compress().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/Accumulate()&amp;Chain().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/Dropwhile() &amp; FilterFalse().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/islice &amp; starmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlFlow/Iterator/takewhile &amp; tee .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
